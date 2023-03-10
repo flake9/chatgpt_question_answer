@@ -1,0 +1,6 @@
+Flask
+requests
+OpenAIAuth
+httpx
+Flask-RESTful
+marshmallow
